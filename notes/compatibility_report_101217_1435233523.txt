@@ -1,0 +1,5 @@
+Converting GML script: ${project_dir}\scripts\scr_get_depth\scr_get_depth.gml
+Converted description /// @description scr_get_depth()/// @function scr_get_depth
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
