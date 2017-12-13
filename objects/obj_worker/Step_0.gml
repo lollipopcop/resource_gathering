@@ -14,27 +14,17 @@ if(left_pressed){
 
 //if the worker has been assigned let it do the associated action
 
-if(object_exists( resource_data[worker_role, 1]) == true ){
-	if( worker_role != 0 && worker_role != 3){
+
+if( worker_role != 0 && worker_role != 3) && instance_exists(resource_data[worker_role, 1]){
 	
-		/*
-		if(holding_resource){
-			
-		}
+	direction = point_direction(x, y, resource_node.x, resource_node.y);
 	
-		if(!holding_resource){
-			resource_node = instance_nearest(x, y, resource_data[worker_role, 1]);	
+	if ( distance_to_point(resource_node.x, resource_node.y ) < 10 ){
+		speed = 0;
+		if(alarm[0] = -1) {
+			alarm[0] = 10;
 		}
-		*/
-		direction = point_direction(x, y, resource_node.x, resource_node.y);
-	
-		if ( distance_to_point(resource_node.x, resource_node.y ) < 10 ){
-			speed = 0;
-			if(alarm[0] = -1) {
-				alarm[0] = 10;
-			}
-		} else {
-			speed = room_speed/5;
-		}
+	} else {
+		speed = room_speed/5;
 	}
 }

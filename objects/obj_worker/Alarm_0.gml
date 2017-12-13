@@ -14,7 +14,7 @@ if(holding_resource){
 			break;
 	}
 	
-	if(object_exists(resource_data[worker_role, 1])){
+	if(instance_exists(resource_data[worker_role, 1])){
 		resource_node = instance_nearest(x, y, resource_data[worker_role, 1]);
 	}
 	else{
@@ -31,5 +31,6 @@ if(!holding_resource){
 	resource_node.total_resource --;
 	resource_node = instance_nearest(x, y, resource_data[worker_role, 2]);
 	holding_resource = true;
+	
 	exit;
 }
