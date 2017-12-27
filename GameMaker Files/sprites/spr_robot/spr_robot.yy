@@ -2,7 +2,7 @@
     "id": "73d2f559-b4b6-43f4-ba20-cac8ead94c93",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_worker",
+    "name": "spr_robot",
     "For3D": false,
     "HTile": false,
     "VTile": false,

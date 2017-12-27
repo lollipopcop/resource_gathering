@@ -6,7 +6,8 @@
     "children": [
         "98ce170a-6a86-4c66-a023-8b1ac4f2ca83",
         "a983f486-d443-4129-9ac2-a3990e6b760a",
-        "c05ce681-7a8b-45e6-8cee-0e02c8b82cba"
+        "c05ce681-7a8b-45e6-8cee-0e02c8b82cba",
+        "c7a130c9-9620-45f0-98cd-727a946dd26f"
     ],
     "filterType": "GMObject",
     "folderName": "Legacy Objects",
