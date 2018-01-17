@@ -5,23 +5,13 @@
     "name": "obj_resource_lumber",
     "eventList": [
         {
-            "id": "7b1c20ad-a1dc-4ba3-9181-655c8c59cb9e",
+            "id": "de8f6df6-10fa-4c89-bcd2-4e2c4e22a770",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "3787df9e-abc9-496f-a795-8d93c7704928"
-        },
-        {
-            "id": "bc2faee2-09e8-4d86-aa87-2c51a9305885",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
             "m_owner": "3787df9e-abc9-496f-a795-8d93c7704928"
         }
     ],

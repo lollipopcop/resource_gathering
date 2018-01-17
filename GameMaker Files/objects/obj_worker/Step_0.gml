@@ -8,7 +8,7 @@
 */
 
 //set depth of character dynamically based on vertical placement on screen
-scr_get_depth();
+//scr_get_depth();
 
 //if the worker has been clicked on (via the left pressed event) move it with the mouse
 if ( left_pressed ) {

@@ -1,9 +1,3 @@
-/// @description Setup Variables
-// You can write your code in this editor
+/// @description initialize
 
-speed = 0;
-
-prev_x = 0;
-
-move_to_x = 0;
-move_to_y = 0;
+scr_player_init();
