@@ -13,7 +13,7 @@ button_ypos[0] = 0;
 
 for (var i = 0; i < button_count; i++){
 	button_xpos[i] = x + lengthdir_x( button_distance, button_section_size * i);	
-	button_xpos[i] = y + lengthdir_y( button_distance, button_section_size * i);
+	button_ypos[i] = y + lengthdir_y( button_distance, button_section_size * i);
 	button[i] = instance_create_depth(button_xpos[i], button_ypos[i], 100, button_object[i]);
 	instance_deactivate_object(button[i]);
 }
