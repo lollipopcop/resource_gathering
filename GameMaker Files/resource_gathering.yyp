@@ -439,6 +439,22 @@
             }
         },
         {
+            "Key": "c351694a-13a8-489b-900c-3ec653453a60",
+            "Value": {
+                "id": "6aa5620e-188c-4fcb-b0e9-72a751a7bb7c",
+                "resourcePath": "sprites\\spr_robot_button_rest\\spr_robot_button_rest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c6ef02db-415f-493b-900a-780391fe8854",
+            "Value": {
+                "id": "d84a8e4c-1ed5-4453-a52d-28a34b0e12a9",
+                "resourcePath": "objects\\obj_robot_button_rest\\obj_robot_button_rest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c7a130c9-9620-45f0-98cd-727a946dd26f",
             "Value": {
                 "id": "c54fcd69-e2c9-4b56-ba71-88510ea67c92",

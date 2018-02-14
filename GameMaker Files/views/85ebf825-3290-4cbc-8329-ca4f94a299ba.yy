@@ -8,7 +8,8 @@
         "0943754a-e28a-4251-a857-c28ca2b666a4",
         "be662959-8658-4f30-8eda-3c77529be9e5",
         "19c8d17c-c028-49d3-8459-fce61e928c18",
-        "d06a0ef3-030e-4e8a-ae8d-3547aaede351"
+        "d06a0ef3-030e-4e8a-ae8d-3547aaede351",
+        "c6ef02db-415f-493b-900a-780391fe8854"
     ],
     "filterType": "GMObject",
     "folderName": "Robot",

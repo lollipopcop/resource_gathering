@@ -3,9 +3,10 @@
 scr_robot_init();
 
 selected = false;
-button_distance = 64
+button_distance = 32
 button_object[0] = obj_robot_button_gather;
 button_object[1] = obj_robot_button_defend;
+button_object[2] = obj_robot_button_rest;
 button_count = array_length_1d(button_object);
 button_section_size = 360/button_count;
 button_xpos[0] = 0;
