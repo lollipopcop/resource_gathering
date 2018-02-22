@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "50541666-9ecf-426c-b9ca-bbc1c471be8e",
+            "Value": {
+                "id": "1e459aed-38f6-44b8-8e6e-40de0e2ed2f5",
+                "resourcePath": "objects\\object20\\object20.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "56a94445-3262-4550-a621-197df7f13d8b",
             "Value": {
                 "id": "b40ab282-46a9-4677-9fcb-07ac751167e0",
@@ -371,6 +379,14 @@
             "Value": {
                 "id": "f97bdbd7-628c-4b09-9da7-bbf8e58aaa4d",
                 "resourcePath": "sprites\\spr_building_lumber\\spr_building_lumber.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a54e40eb-b70a-46f4-a141-530f70e910e5",
+            "Value": {
+                "id": "821d0a41-9b94-47e7-b8af-0dd0ce92f1b9",
+                "resourcePath": "sprites\\sprite16\\sprite16.yy",
                 "resourceType": "GMSprite"
             }
         },
