@@ -2,7 +2,7 @@
     "id": "a54e40eb-b70a-46f4-a141-530f70e910e5",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite16",
+    "name": "spr_resource_flower",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -101,6 +101,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 16,
-    "xorig": 8,
-    "yorig": 13
+    "xorig": 7,
+    "yorig": 14
 }

@@ -2,6 +2,8 @@
 
 event_inherited();
 
+depth = -y;
+
 if( state == "move" ){
 	scr_player_move();
 } else if( state == "idle" ){

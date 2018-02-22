@@ -2,7 +2,7 @@
     "id": "50541666-9ecf-426c-b9ca-bbc1c471be8e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object20",
+    "name": "obj_resource_flower",
     "eventList": [
         
     ],
