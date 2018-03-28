@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "53504f4f-81d8-402d-9ebe-fbf733d367fc",
+            "Value": {
+                "id": "3dbaee3b-ef8e-40d6-8ac6-49af63b6f67e",
+                "resourcePath": "tilesets\\tile_background\\tile_background.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "56a94445-3262-4550-a621-197df7f13d8b",
             "Value": {
                 "id": "b40ab282-46a9-4677-9fcb-07ac751167e0",
@@ -407,6 +415,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "a763c940-43b9-4bf7-839c-82f8b96735c9",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "a983f486-d443-4129-9ac2-a3990e6b760a",
             "Value": {
                 "id": "e199fb11-54b0-4509-90f0-4169adf99e7b",
@@ -572,6 +588,14 @@
                 "id": "ece02ea7-490d-4806-a211-cd48ceb66f1e",
                 "resourcePath": "views\\f2ee953c-5d41-4e18-a812-1c7d61d2df29.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "7ce39a2b-2ec5-43a3-878c-3c1e1be40cb1",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
