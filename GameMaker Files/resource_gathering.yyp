@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "cb0e6498-2f3a-4e3f-aa7f-a494127be893",
+            "Value": {
+                "id": "58230d5c-8e31-46e4-99be-ee5cc599232b",
+                "resourcePath": "scripts\\scr_grid_movement\\scr_grid_movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc07e71e-7e57-4034-9d30-3eeb67a5746b",
             "Value": {
                 "id": "44eb76bf-e23f-448a-aa2c-1ed57644341d",
@@ -635,7 +643,8 @@
         "56a94445-3262-4550-a621-197df7f13d8b",
         "77d826ea-2bc9-453e-980e-982ca612eb62",
         "27da07a8-79dd-4e63-8f07-c8020b4b08c5",
-        "109ad057-03a8-4163-b143-373e6d300f6e"
+        "109ad057-03a8-4163-b143-373e6d300f6e",
+        "cb0e6498-2f3a-4e3f-aa7f-a494127be893"
     ],
     "tutorial": ""
 }

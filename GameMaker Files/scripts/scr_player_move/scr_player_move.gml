@@ -5,7 +5,7 @@ friction = 0;	//enable the player to move
 //move towards target if it exists
 
 if( instance_exists( target ) ){
-	motion_add(point_direction(x, y, target.x, target.y), acc);
+	//motion_add(point_direction(x, y, target.x, target.y), acc);
 	
 	//delete the target when we reach it
 	if( position_meeting( x, y, target ) ){
@@ -18,4 +18,3 @@ if( instance_exists( target ) ){
 if( speed > spd ){
 	speed = spd;
 }
-
