@@ -6,12 +6,21 @@ if( target != -1 && ( instance_exists( target ) ) ){
 }
 
 target = instance_create_depth(mouse_x, mouse_y, 0, obj_target);
-state = "move";
+
 
 //create path
 
+if(1) {//remove for testing
 
-mp_grid_path(global.movement_grid, path, x, y, mouse_x, mouse_y, true);
+//check if there is something blocking the path if yes do grid thing
+	if( collision_line(x, y, target.x, target.y, obj_collision, false, true) != noone ) {
+		state = "move_grid";
+		mp_grid_path(global.movement_grid, path, x, y, mouse_x, mouse_y, true);		
+	} else {
+		state = "move_line"
+		mp_linear_path_object(path, target.x, target.y, spd, obj_collision);
+	}
 
 //start following of path
 path_start(path, spd, path_action_stop, false);
+}
