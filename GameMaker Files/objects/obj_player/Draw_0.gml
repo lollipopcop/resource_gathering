@@ -4,4 +4,6 @@
 draw_self();
 
 
-draw_path(path, x, y, true);
+if(0){
+	draw_path(path, x, y, true);
+}

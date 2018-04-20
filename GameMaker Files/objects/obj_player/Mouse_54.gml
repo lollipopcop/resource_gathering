@@ -13,7 +13,7 @@ target = instance_create_depth(mouse_x, mouse_y, 0, obj_target);
 if(1) {//remove for testing
 
 //check if there is something blocking the path if yes do grid thing
-	if( collision_line(x, y, target.x, target.y, obj_collision, false, true) != noone ) {
+	if( scr_check_path(x, y, target.x, target.y, bbox_left, bbox_right, bbox_top, bbox_bottom) == false) {
 		state = "move_grid";
 		mp_grid_path(global.movement_grid, path, x, y, mouse_x, mouse_y, true);		
 	} else {
