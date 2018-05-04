@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(0){
-	draw_path(path, x, y, true);
-}
+scr_add_depth_to_grid();
